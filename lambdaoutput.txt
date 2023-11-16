@@ -1,0 +1,20 @@
+hi: # नया इनपुट टेक्स्ट 
+
+ar: # نص إدخال جديد 
+
+gu: # નવું ઇનપુટ ટેક્સ્ટ 
+
+nl: # nieuwe invoertekst 
+
+fr: # nouveau texte d'entrée 
+
+hi: AWS लैम्ब्डा एक सर्वर रहित, इवेंट-संचालित कंप्यूट सेवा है जो आपको सर्वर के प्रावधान या प्रबंधन के बिना वस्तुतः किसी भी प्रकार के एप्लिकेशन या बैकएंड सेवा के लिए कोड चलाने की सुविधा देती है। आप सेवा (SaaS) अनुप्रयोगों के रूप में 200 से अधिक AWS सेवाओं और सॉफ़्टवेयर से लैम्ब्डा को ट्रिगर कर सकते हैं, और केवल उसी के लिए भुगतान कर सकते हैं जिसका आप उपयोग करते हैं।
+
+ar: AWS Lambda هي خدمة حوسبة بدون خادم تعتمد على الأحداث تتيح لك تشغيل التعليمات البرمجية لأي نوع من التطبيقات أو الخدمات الخلفية تقريبًا دون توفير الخوادم أو إدارتها. يمكنك تشغيل Lambda من أكثر من 200 تطبيق من خدمات AWS والبرامج كخدمة (SaaS)، والدفع فقط مقابل ما تستخدمه.
+
+gu: AWS લેમ્બડા એ સર્વરલેસ, ઇવેન્ટ-સંચાલિત ગણતરી સેવા છે જે તમને સર્વર્સની જોગવાઈ અથવા મેનેજ કર્યા વિના વર્ચ્યુઅલ કોઈપણ પ્રકારની એપ્લિકેશન અથવા બેકએન્ડ સેવા માટે કોડ ચલાવવા દે છે. તમે 200 થી વધુ AWS સેવાઓ અને સ softwareફ્ટવેરમાંથી લેમ્બડાને સેવા (SaaS) એપ્લિકેશન્સ તરીકે ટ્રિગર કરી શકો છો, અને તમે જે ઉપયોગ કરો છો તેના માટે જ ચૂકવણી કરી શકો છો.
+
+nl: AWS Lambda is een serverloze, eventgestuurde rekenservice waarmee u code kunt uitvoeren voor vrijwel elk type toepassing of backend-service zonder servers in te richten of te beheren. U kunt Lambda activeren via meer dan 200 AWS-services en SaaS-toepassingen (Software as a Service) en u betaalt alleen voor wat u gebruikt.
+
+fr: AWS Lambda est un service de calcul sans serveur piloté par les événements qui vous permet d'exécuter du code pour pratiquement n'importe quel type d'application ou de service principal sans provisionner ni gérer de serveurs. Vous pouvez déclencher Lambda à partir de plus de 200 services AWS et applications de logiciel en tant que service (SaaS), et ne payer que ce que vous utilisez.
+

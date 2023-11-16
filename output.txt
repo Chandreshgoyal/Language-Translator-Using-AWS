@@ -1,0 +1,10 @@
+hi: Amazon Simple Storage Service (Amazon S3) एक ऑब्जेक्ट स्टोरेज सेवा है जो उद्योग की अग्रणी स्केलेबिलिटी, डेटा उपलब्धता, सुरक्षा और प्रदर्शन प्रदान करती है। सभी आकार और उद्योगों के ग्राहक वस्तुतः किसी भी उपयोग के मामले में किसी भी मात्रा में डेटा को स्टोर और सुरक्षित कर सकते हैं, जैसे कि डेटा लेक, क्लाउड-नेटिव एप्लिकेशन और मोबाइल ऐप। 
+
+bn: অ্যামাজন সিম্পল স্টোরেজ সার্ভিস (অ্যামাজন এস 3) একটি অবজেক্ট স্টোরেজ পরিষেবা যা শিল্প-নেতৃস্থানীয় স্কেলেবিলিটি, ডেটা প্রাপ্যতা, সুরক্ষা সমস্ত আকার এবং শিল্পের গ্রাহকরা ডেটা লেক, ক্লাউড-নেটিভ অ্যাপ্লিকেশন এবং মোবাইল অ্যাপ্লিকেশনগুলির মতো কার্যত যে কোনও ব্যবহারের ক্ষেত্রে যে কোনও পরিমাণে ডেটা সংরক্ষণ এবং সুরক্ষা করতে পারেন। 
+
+es: Amazon Simple Storage Service (Amazon S3) es un servicio de almacenamiento de objetos que ofrece escalabilidad, disponibilidad de datos, seguridad y rendimiento líderes del sector. Los clientes de todos los tamaños e industrias pueden almacenar y proteger cualquier cantidad de datos para prácticamente cualquier caso de uso, como lagos de datos, aplicaciones nativas de la nube y aplicaciones móviles. 
+
+zh: 亚马逊简单存储服务 (Amazon S3) 是一项对象存储服务，提供业界领先的可扩展性、数据可用性、安全性和性能。各种规模和行业的客户几乎可以为任何用例（例如数据湖、云原生应用程序和移动应用程序）存储和保护任意数量的数据。 
+
+fr: Amazon Simple Storage Service (Amazon S3) est un service de stockage d'objets offrant une évolutivité, une disponibilité des données, une sécurité et des performances de pointe. Les clients de toutes tailles et de tous secteurs peuvent stocker et protéger n'importe quel volume de données pour pratiquement tous les cas d'utilisation, tels que les lacs de données, les applications cloud natives et les applications mobiles. 
+

@@ -1,0 +1,49 @@
+Certainly! Below are the steps you can follow for your project, which involves converting text to different languages using AWS services
+
+1-Create Input and Output S3 Buckets:
+
+Open the AWS Management Console.
+Navigate to the Amazon S3 service.
+Create two S3 buckets, one for input (e.g., input-bucket) and one for output (e.g., output-bucket).
+
+2-Create AWS IAM Role:
+
+Navigate to the IAM (Identity and Access Management) service in the AWS Management Console.
+Create a new IAM role with the necessary permissions for CloudWatch, S3, and Translate.
+Attach the AmazonTranslateFullAccess, AmazonS3FullAccess, and CloudWatchLogsFullAccess policies to this role.
+
+3-Create Lambda Function:
+
+Navigate to the AWS Lambda service in the AWS Management Console.
+Create a new Lambda function.
+Choose the runtime for your code (e.g., Node.js, Python).
+Configure the function to use the IAM role created in the previous step.
+Upload your code to the Lambda function.
+Set the Lambda function handler to the appropriate function in your code.
+
+4-Create S3 Event Trigger:
+
+In the AWS Lambda function configuration, add a trigger.
+Choose S3 as the trigger type.
+Select the input S3 bucket (input-bucket).
+Configure the event type (e.g., ObjectCreated) to trigger the Lambda function.
+
+5-Upload File to Input S3 Bucket:
+
+Upload a text file to the input S3 bucket (input-bucket). This will trigger the Lambda function.
+
+6-Monitor CloudWatch Logs:
+
+Check CloudWatch Logs for your Lambda function to view logs and troubleshoot any issues.
+
+7-Verify Output:
+
+After the Lambda function is triggered, check the output S3 bucket (output-bucket) for the translated text file.
+
+8-Testing:
+
+Test the entire workflow by uploading different text files to the input bucket and verifying the corresponding translated files in the output bucket.
+
+9-Cleanup (Optional):
+
+If needed, clean up resources by deleting the Lambda function and S3 buckets.
